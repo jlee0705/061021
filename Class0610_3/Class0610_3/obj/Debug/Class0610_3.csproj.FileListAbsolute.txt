@@ -1,0 +1,7 @@
+C:\Users\KB\Desktop\061021\Class0610_3\Class0610_3\bin\Debug\Class0610_3.exe.config
+C:\Users\KB\Desktop\061021\Class0610_3\Class0610_3\bin\Debug\Class0610_3.exe
+C:\Users\KB\Desktop\061021\Class0610_3\Class0610_3\bin\Debug\Class0610_3.pdb
+C:\Users\KB\Desktop\061021\Class0610_3\Class0610_3\obj\Debug\Class0610_3.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\061021\Class0610_3\Class0610_3\obj\Debug\Class0610_3.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\061021\Class0610_3\Class0610_3\obj\Debug\Class0610_3.exe
+C:\Users\KB\Desktop\061021\Class0610_3\Class0610_3\obj\Debug\Class0610_3.pdb
